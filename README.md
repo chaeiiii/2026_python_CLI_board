@@ -1,1 +1,1 @@
-# 2026_06_python_CLI_board
+# 2026_python_CLI_board
